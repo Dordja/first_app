@@ -1,4 +1,10 @@
+
 == README
+
+# Ruby on Rails Tutorial: Первое приложение
+Это первое приложение для
+[*Ruby on Rails Tutorial: Изучение Rails на примерах*](http://railstutorial.org/)
+ [Майкл Хартл](http://michaelhartl.com/).
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
